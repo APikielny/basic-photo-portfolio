@@ -1,1 +1,1 @@
-export const filterOptions = ["dog", "portrait", "tower"];
+export const filterOptions = ["iPhone", "snow", "rock", "drone", "drawing"];

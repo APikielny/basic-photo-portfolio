@@ -24,6 +24,7 @@ export default function About() {
           <br />
           <br />
           TODO add bio
+          This website was kindly built by my talented friend Ivan (add link)
         </p>
       </div>
     </div>
