@@ -21,7 +21,9 @@ Honestly I should be using this for my own photos. But I digress.
 To set this up for yourself, you probably want to do a couple main things:
 
 1. Change the name in the `components/Header.js` file to your name!
-2. Upload the photos that you want to use into the `public/images` folder. From here, you want to then change the imports in `components/PhotoGallery/Photogallery.js` file. React photo gallery has good documentation, which I use below:
+2. Upload the photos that you want to use into the `public/images` folder. From here, you want to then change the imports in `components/PhotoGallery/Photogallery.js` file. 
+Adam EDIT: I think the correct path is components/photos.js. Also, this link has more info: https://www.npmjs.com/package/react-photo-gallery
+React photo gallery has good documentation, which I use below:
 
 ```js
 const photos = [
