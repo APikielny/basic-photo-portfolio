@@ -29,13 +29,26 @@ export default function PhotoGallery({ photos }) {
     const newPhotos = [];
 
     // checks if photo is in the list of tags currently selected
+    // for (const photo of photos) {
+    //   for (const currFilter of filters) {
+    //     if (photo.tag.includes(currFilter)) {
+    //       if (!newPhotos.includes(photo)) {
+    //         newPhotos.push(photo);
+    //       }
+    //       continue;
+    //     }
+    //   }
+    // }
     for (const photo of photos) {
+      tagged = True;
       for (const currFilter of filters) {
-        if (photo.tag.includes(currFilter)) {
-          if (!newPhotos.includes(photo)) {
-            newPhotos.push(photo);
-          }
-          continue;
+        if (!photo.tag.includes(currFilter)) {
+          tagged = False;
+        }
+      }
+      if (tagged) {
+        if (!newPhotos.includes(photo)) {
+          newPhotos.push(photo);
         }
       }
     }

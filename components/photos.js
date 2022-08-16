@@ -93,7 +93,7 @@ export const photos = [
     src: "/images/valtournencheBackflip.jpeg",
     width: 4,
     height: 3,
-    tag: ["iPhone"]
+    tag: ["iPhone", "snow"]
   },
   {
     src: "/images/wideHoodoos.jpg",
