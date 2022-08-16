@@ -20,7 +20,7 @@ export default function About() {
           />
         </div>
         <p className={styles.text}>
-          Hey I'm Ivan!
+          Hey I'm Adam!
           <br />
           <br />
           I'm probably taking a nap or doing something else right now. Here's
