@@ -23,8 +23,7 @@ export default function About() {
           Hey I'm Adam!
           <br />
           <br />
-          I'm probably taking a nap or doing something else right now. Here's
-          more filler text. Here's some more. I love dogs! Did you know that?
+          TODO add bio
         </p>
       </div>
     </div>
