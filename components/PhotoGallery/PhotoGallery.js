@@ -40,10 +40,10 @@ export default function PhotoGallery({ photos }) {
     //   }
     // }
     for (const photo of photos) {
-      tagged = True;
+      var tagged = true;
       for (const currFilter of filters) {
         if (!photo.tag.includes(currFilter)) {
-          tagged = False;
+          tagged = false;
         }
       }
       if (tagged) {
