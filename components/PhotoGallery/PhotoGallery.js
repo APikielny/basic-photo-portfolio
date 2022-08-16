@@ -69,7 +69,7 @@ export default function PhotoGallery({ photos }) {
                   filter(currFilter);
                 }}
               >
-                {convertTitleCase(currFilter)}
+                {currFilter}
               </button>
             );
           })}

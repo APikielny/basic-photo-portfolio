@@ -90,7 +90,7 @@ export const photos = [
     tag: []
   },
   {
-    src: "/images/valtournencheBackflip.jepg",
+    src: "/images/valtournencheBackflip.jpeg",
     width: 4,
     height: 3,
     tag: ["iPhone"]
