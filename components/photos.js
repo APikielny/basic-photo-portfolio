@@ -6,12 +6,6 @@ export const photos = [
     tag: ["iPhone"]
   },
   {
-    src: "/images/hermanCornice.jpg",
-    width: 3,
-    height: 4,
-    tag: ["iPhone", "snow"]
-  },
-  {
     src: "/images/artistPointLandscape.jpg",
     width: 4,
     height: 3,
@@ -79,12 +73,6 @@ export const photos = [
   },
   {
     src: "/images/rifugioSunset.jpeg",
-    width: 4,
-    height: 3,
-    tag: []
-  },
-  {
-    src: "/images/tetons.png",
     width: 4,
     height: 3,
     tag: []
