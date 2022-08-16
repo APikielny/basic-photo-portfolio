@@ -37,7 +37,7 @@ export const photos = [
   // },
   {
     src: "/images/woodring.jpg",
-    width: 2,
+    width: 4,
     height: 3,
     tag: ["iPhone"]
   }
