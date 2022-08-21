@@ -28,6 +28,7 @@ export default function PhotoGallery({ photos }) {
   useEffect(() => {
     const newPhotos = [];
 
+    // use union of tags
     // checks if photo is in the list of tags currently selected
     // for (const photo of photos) {
     //   for (const currFilter of filters) {
@@ -39,6 +40,8 @@ export default function PhotoGallery({ photos }) {
     //     }
     //   }
     // }
+
+    //use intersection of tags
     for (const photo of photos) {
       var tagged = true;
       for (const currFilter of filters) {

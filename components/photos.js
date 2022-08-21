@@ -23,12 +23,12 @@ export const photos = [
     height: 3,
     tag: ["iPhone"]
   },
-  {
-    src: "/images/flowers.jpg",
-    width: 4,
-    height: 3,
-    tag: ["iPhone"]
-  },
+  // {
+  //   src: "/images/flowers.jpg",
+  //   width: 4,
+  //   height: 3,
+  //   tag: ["iPhone"]
+  // },
   {
     src: "/images/herman.jpg",
     width: 3,
@@ -41,24 +41,24 @@ export const photos = [
     height: 4,
     tag: ["iPhone", "snow"]
   },
-  {
-    src: "/images/hermanSteep.jpg",
-    width: 3,
-    height: 4,
-    tag: ["iPhone", "snow"]
-  },
+  // {
+  //   src: "/images/hermanSteep.jpg",
+  //   width: 3,
+  //   height: 4,
+  //   tag: ["iPhone", "snow"]
+  // },
   {
     src: "/images/hoodoosSoftLight.jpg",
     width: 4,
     height: 3,
     tag: ["iPhone", "rock"]
   },
-  {
-    src: "/images/monkeyRock.jpg",
-    width: 4,
-    height: 3,
-    tag: ["iPhone"]
-  },
+  // {
+  //   src: "/images/monkeyRock.jpg",
+  //   width: 4,
+  //   height: 3,
+  //   tag: ["iPhone"]
+  // },
   {
     src: "/images/nevadaOpenRoad.jpg",
     width: 4,
@@ -77,12 +77,12 @@ export const photos = [
     height: 3,
     tag: []
   },
-  {
-    src: "/images/tetonsSunset.jpg",
-    width: 4,
-    height: 3,
-    tag: []
-  },
+  // {
+  //   src: "/images/tetonsSunset.jpg",
+  //   width: 4,
+  //   height: 3,
+  //   tag: []
+  // },
   {
     src: "/images/tetonsSunsetMoon.jpg",
     width: 4,
@@ -93,12 +93,78 @@ export const photos = [
     src: "/images/valtournencheBackflip.jpeg",
     width: 4,
     height: 3,
-    tag: ["iPhone", "snow"]
+    tag: ["iPhone", "snow", "me"]
   },
   {
     src: "/images/wideHoodoos.jpg",
     width: 4,
     height: 3,
     tag: ["iPhone"]
+  },
+  {
+    src: "/images/adamRopeCoil.jpg",
+    width: 3,
+    height: 4,
+    tag: ["iPhone", "rock", "me"]
+  },
+  {
+    src: "/images/bachelorDroneFromTumalo.jpg",
+    width: 3840,
+    height: 2160,
+    tag: ["snow", "drone"]
+  },
+  {
+    src: "/images/bonsaiRock.jpg",
+    width: 3589,
+    height: 2318,
+    tag: ["iPhone"]
+  },
+  {
+    src: "/images/coneSpray.jpg",
+    width: 3,
+    height: 4,
+    tag: ["snow", "iPhone"]
+  },
+  {
+    src: "/images/craterLakeOutHouse.jpg",
+    width: 4,
+    height: 3,
+    tag: []
+  },
+  {
+    src: "/images/jackSmithHeinousUncropped.jpg",
+    width: 3,
+    height: 4,
+    tag: ["rock"]
+  },
+  {
+    src: "/images/craterLakeBackflip.jpg",
+    width: 3,
+    height: 4,
+    tag: ["rock", "me"]
+  },
+  {
+    src: "/images/shanAtopSmith.jpg",
+    width: 3,
+    height: 4,
+    tag: ["rock", "iPhone"]
+  },
+  {
+    src: "/images/shanKentsTrail.jpg",
+    width: 2581,
+    height: 3024,
+    tag: ["iPhone"]
+  },
+  {
+    src: "/images/skylightCaveDancerPose.jpg",
+    width: 4,
+    height: 3,
+    tag: ["rock"]
+  },
+  {
+    src: "/images/tracks.jpg",
+    width: 4,
+    height: 3,
+    tag: ["snow"]
   },
 ];
