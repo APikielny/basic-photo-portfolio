@@ -139,8 +139,8 @@ export const photos = [
   },
   {
     src: "/images/craterLakeBackflip.jpg",
-    width: 3,
-    height: 4,
+    width: 4,
+    height: 3,
     tag: ["rock", "me"]
   },
   {
@@ -156,7 +156,7 @@ export const photos = [
     tag: ["iPhone"]
   },
   {
-    src: "/images/skylightCaveDancerPose.jpg",
+    src: "/images/skylightcaveDancerPose.jpg",
     width: 4,
     height: 3,
     tag: ["rock"]
