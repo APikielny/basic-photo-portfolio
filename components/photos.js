@@ -12,6 +12,12 @@ export const photos = [
     tag: ["iPhone", "snow"]
   },
   {
+    src: "/images/artistPoint.jpg",
+    width: 3,
+    height: 4,
+    tag: ["iPhone", "snow"]
+  },
+  {
     src: "/images/bendDrawing.png",
     width: 1536,
     height: 2732,
