@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import styles from "../../styles/About.module.css";
 
-import profilePic from "../../public/about/about_pic.jpeg";
+// import profilePic from "../../public/about/about_pic.jpeg";
 import meAction1 from "../../public/about/valtournencheBackflip.jpeg";
 import meAction2 from "../../public/about/craterLakeBackflip.jpg";
 import meAction3 from "../../public/about/adamRopeCoil.jpg";
