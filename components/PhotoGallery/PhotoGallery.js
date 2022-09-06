@@ -4,7 +4,7 @@ import { useState, useCallback, useEffect } from "react";
 import Carousel, { Modal, ModalGateway } from "react-images";
 import { filterOptions } from "../FilterOptions";
 import styles from "../../styles/PhotoGallery.module.css";
-import Tooltip from "../Tooltip/tooltip";
+import Tooltip from "../Tooltip/Tooltip";
 
 export default function PhotoGallery({ photos }) {
   const [filteredPhotos, setFilteredPhotos] = useState([]);
