@@ -17,12 +17,12 @@ export const photos = [
     height: 4,
     tag: ["iPhone", "snow"]
   },
-  {
-    src: "/images/bendDrawing.png",
-    width: 1536,
-    height: 2732,
-    tag: ["drawing"]
-  },
+  // {
+  //   src: "/images/bendDrawing.png",
+  //   width: 1536,
+  //   height: 2732,
+  //   tag: ["drawing"]
+  // },
   {
     src: "/images/bryceBurntForest.jpg",
     width: 4,
@@ -172,5 +172,11 @@ export const photos = [
     width: 4,
     height: 3,
     tag: ["snow"]
+  },
+  {
+    src: "/images/gallatin_stars.jpeg",
+    width: 4,
+    height: 3,
+    tag: []
   },
 ];
