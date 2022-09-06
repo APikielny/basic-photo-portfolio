@@ -26,8 +26,8 @@ export default function About() {
             src={meAction1}
             alt="Personal of myself"
             // Change this to adjust for the image size
-            width={1920}
-            height={2560}
+            width={2560}
+            height={1920}
             layout="responsive"
             className={styles.photo}
           />
@@ -35,8 +35,8 @@ export default function About() {
             src={meAction2}
             alt="Personal of myself"
             // Change this to adjust for the image size
-            width={1920}
-            height={2560}
+            width={2560}
+            height={1920}
             layout="responsive"
             className={styles.photo}
           />
@@ -44,8 +44,8 @@ export default function About() {
             src={meAction3}
             alt="Personal of myself"
             // Change this to adjust for the image size
-            // width={1920}
-            // height={2560}
+            width={1920}
+            height={2560}
             layout="responsive"
             className={styles.photo}
           />
@@ -54,7 +54,6 @@ export default function About() {
           Hey I'm Adam!
           <br />
           <br />
-          TODO
           This website was kindly built by my talented friend Ivan (add link)
         </p>
       </div>
