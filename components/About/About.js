@@ -23,7 +23,7 @@ export default function About() {
           Hey I'm Adam!
           <br />
           <br />
-          TODO add bio
+          TODO
           This website was kindly built by my talented friend Ivan (add link)
         </p>
       </div>

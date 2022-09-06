@@ -120,7 +120,7 @@ export default function PhotoGallery({ photos }) {
           <>
             <Gallery
               photos={filteredPhotos}
-              direction="column"
+              direction="row"
               onClick={openLightbox}
             />
             <ModalGateway>
