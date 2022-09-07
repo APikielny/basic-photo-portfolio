@@ -23,7 +23,7 @@ export const photos = [
   //   height: 2732,
   //   tag: ["drawing"]
   // },
-  {
+  { caption: "caption tst",
     src: "/images/bryceBurntForest.jpg",
     width: 4,
     height: 3,
