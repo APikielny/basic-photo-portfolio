@@ -191,4 +191,76 @@ export const photos = [
     height: 4,
     tag: ["rock", "me"]
   },
+  {
+    src: "/images/roadTrip/angels.jpg",
+    width: 3,
+    height: 4,
+    tag: ["rock", "iPhone"]
+  },
+  {
+    src: "/images/roadTrip/antelopeAbove.jpg",
+    width: 4,
+    height: 3,
+    tag: ["rock"]
+  },
+  {
+    src: "/images/roadTrip/arch2.jpg",
+    width: 4,
+    height: 3,
+    tag: ["rock"]
+  },
+  {
+    src: "/images/roadTrip/burger.jpg",
+    width: 3468,
+    height: 1728,
+    tag: []
+  },
+  {
+    src: "/images/roadTrip/ShannonAntelope.jpg",
+    width: 3024,
+    height: 3615,
+    tag: ["rock"]
+  },
+  {
+    src: "/images/roadTrip/cables.jpg",
+    width: 4,
+    height: 3,
+    tag: ["rock"]
+  },
+  {
+    src: "/images/roadTrip/grandCanyon.jpg",
+    width: 4388,
+    height: 2297,
+    tag: []
+  },
+  {
+    src: "/images/roadTrip/halfDomePan.jpg",
+    width: 16382,
+    height: 3718,
+    tag: []
+  },
+  {
+    src: "/images/roadTrip/mossTree.jpg",
+    width: 3,
+    height: 4,
+    tag: []
+  }, 
+  {
+    src: "/images/roadTrip/horseshoe1.jpg",
+    width: 4,
+    height: 3,
+    tag: ["rock"]
+  }, 
+  {
+    src: "/images/roadTrip/narrows1.jpg",
+    width: 3,
+    height: 4,
+    tag: ["rock"]
+  },
+  {
+    src: "/images/roadTrip/goldenBryce.jpg",
+    width: 4,
+    height: 3,
+    tag: ["rock"]
+  },
 ];
