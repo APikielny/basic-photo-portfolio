@@ -44,14 +44,14 @@ export default function About() {
             src={meAction3}
             alt="Personal of myself"
             // Change this to adjust for the image size
-            width={1920}
-            height={2560}
+            width={3024}
+            height={4032}
             layout="responsive"
             className={styles.photo}
           />
         </div>
         <p className={styles.text}>
-          Hey I'm Adam!
+          Hey, I'm Adam!
           <br />
           <br />
           This website was kindly built by my talented friend <a href={"http://ivanzhao.me"}>Ivan.</a>
