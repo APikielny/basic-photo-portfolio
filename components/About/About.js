@@ -54,7 +54,7 @@ export default function About() {
           Hey I'm Adam!
           <br />
           <br />
-          This website was kindly built by my talented friend Ivan (add link)
+          This website was kindly built by my talented friend <a href={"http://ivanzhao.me"}>Ivan.</a>
         </p>
       </div>
     </div>
