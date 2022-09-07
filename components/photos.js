@@ -179,4 +179,16 @@ export const photos = [
     height: 3,
     tag: []
   },
+  {
+    src: "/images/hermanDown.jpg",
+    width: 3,
+    height: 4,
+    tag: ["snow", "iPhone"]
+  },
+  {
+    src: "/images/ancient_art.jpg",
+    width: 3,
+    height: 4,
+    tag: ["rock", "me"]
+  },
 ];
