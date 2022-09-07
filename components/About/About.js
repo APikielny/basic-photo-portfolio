@@ -22,7 +22,7 @@ export default function About() {
             layout="responsive"
             className={styles.photo}
           /> */}
-          <Image
+          {/* <Image
             src={meAction1}
             alt="Personal of myself"
             // Change this to adjust for the image size
@@ -39,7 +39,7 @@ export default function About() {
             height={1920}
             layout="responsive"
             className={styles.photo}
-          />
+          /> */}
           <Image
             src={meAction3}
             alt="Personal of myself"

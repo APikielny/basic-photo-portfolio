@@ -95,12 +95,12 @@ export const photos = [
     height: 3,
     tag: []
   },
-  // {
-  //   src: "/images/valtournencheBackflip.jpeg",
-  //   width: 4,
-  //   height: 3,
-  //   tag: ["iPhone", "snow", "me"]
-  // },
+  {
+    src: "/images/valtournencheBackflip.jpeg",
+    width: 4,
+    height: 3,
+    tag: ["iPhone", "snow", "me"]
+  },
   {
     src: "/images/wideHoodoos.jpg",
     width: 4,
@@ -123,7 +123,7 @@ export const photos = [
     src: "/images/bonsaiRock.jpg",
     width: 3589,
     height: 2318,
-    tag: ["iPhone"]
+    tag: ["iPhone", "me"]
   },
   {
     src: "/images/coneSpray.jpg",
@@ -143,12 +143,12 @@ export const photos = [
     height: 4,
     tag: ["rock"]
   },
-  // {
-  //   src: "/images/craterLakeBackflip.jpg",
-  //   width: 4,
-  //   height: 3,
-  //   tag: ["rock", "me"]
-  // },
+  {
+    src: "/images/craterLakeBackflip.jpg",
+    width: 4,
+    height: 3,
+    tag: ["rock", "me"]
+  },
   {
     src: "/images/shanAtopSmith.jpg",
     width: 3,
