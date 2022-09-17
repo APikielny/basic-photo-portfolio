@@ -23,7 +23,8 @@ export const photos = [
   //   height: 2732,
   //   tag: ["drawing"]
   // },
-  { caption: "caption tst",
+  {
+    //  caption: "caption tst",
     src: "/images/bryceBurntForest.jpg",
     width: 4,
     height: 3,
@@ -262,5 +263,17 @@ export const photos = [
     width: 4,
     height: 3,
     tag: ["rock"]
+  },
+  {
+    src: "/images/jordy_arrete.JPG",
+    width: 4,
+    height: 3,
+    tag: ["rock", "iPhone"]
+  },
+  {
+    src: "/images/smith_golden_hour.JPG",
+    width: 3,
+    height: 4,
+    tag: ["rock", "iPhone"]
   },
 ];
