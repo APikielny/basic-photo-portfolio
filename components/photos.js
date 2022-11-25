@@ -276,4 +276,10 @@ export const photos = [
     height: 4,
     tag: ["rock", "iPhone"]
   },
+  {
+    src: "/images/Snowball.JPG",
+    width: 3600,
+    height: 3024,
+    tag: ["snow", "iPhone"]
+  },
 ];
